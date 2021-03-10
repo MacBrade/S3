@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CopingGame",
+"productVersion": "0.1",
+"dataUrl": "08032021v3.data.unityweb",
+"wasmCodeUrl": "08032021v3.wasm.code.unityweb",
+"wasmFrameworkUrl": "08032021v3.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
